@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd health-heaven
+    cd touristopia-public
     ```
 
 3. **Install the dependencies:**
